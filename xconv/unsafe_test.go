@@ -2,7 +2,7 @@ package xconv_test
 
 import (
 	"fmt"
-	"github.com/GTI-Utils/xconv"
+	"github.com/guowei-gong/GTI-Utils/xconv"
 	"testing"
 )
 

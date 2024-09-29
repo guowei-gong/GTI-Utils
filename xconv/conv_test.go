@@ -1,8 +1,8 @@
 package xconv_test
 
 import (
-	"github.com/GTI-Utils/xconv"
-	"github.com/GTI-Utils/xtime"
+	"github.com/guowei-gong/GTI-Utils/xconv"
+	"github.com/guowei-gong/GTI-Utils/xtime"
 	"math"
 	"math/cmplx"
 	"testing"

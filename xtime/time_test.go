@@ -1,7 +1,7 @@
 package xtime_test
 
 import (
-	"github.com/GTI-Utils/xtime"
+	"github.com/guowei-gong/GTI-Utils/xtime"
 	"testing"
 )
 
